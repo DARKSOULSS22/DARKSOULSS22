@@ -144,7 +144,7 @@ Aplicación móvil multiplataforma que permite a los usuarios registrar sus movi
 Estoy abierto a oportunidades laborales como **Junior Backend Developer (Java / Spring Boot)**, **Junior Mobile / Multiplatform Developer (Flutter)** o **Software Engineer Junior**, así como a proyectos de innovación tecnológica.
 
 -  **Correo electrónico:** [pedropablo200322@gmail.com](mailto:pedropablo200322@gmail.com)
--  **LinkedIn:** [linkedin.com/in/pedro-rivas](https://linkedin.com/in/pedro-rivas)](https://www.linkedin.com/in/pedro-rivas-02021a2a5/)
+-  **LinkedIn:** [linkedin.com/in/pedro-pablo-rivas-arboleda](https://www.linkedin.com/in/pedro-pablo-rivas-arboleda-02021a2a5/)
 -  **Ubicación:** Buenaventura, Valle del Cauca, Colombia (Disponible para trabajo remoto o presencial/híbrido)
 
 <div align="center">
