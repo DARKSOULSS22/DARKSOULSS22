@@ -6,7 +6,7 @@
  **Buenaventura, Valle del Cauca, Colombia**  
  Estudiante de **Ingeniería de Sistemas** & **Tecnología en Análisis y Desarrollo de Software (ADSO)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Pablo_Rivas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-rivas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Pablo_Rivas_Arboleda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pablo-rivas-arboleda-02021a2a5/)
 [![Gmail](https://img.shields.io/badge/Contacto-pedropablo200322%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedropablo200322@gmail.com)
 [![Portafolio](https://img.shields.io/badge/Perfil-Ingenier%C3%ADa_de_Software-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 
