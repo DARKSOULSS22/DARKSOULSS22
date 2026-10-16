@@ -1,10 +1,10 @@
 <div align="center">
 
-# ¡Hola! Soy Pedro Pablo Rivas Arboleda 👋
+# ¡Hola! Soy Pedro Pablo Rivas Arboleda 
 ### Desarrollador de Software | Backend (Java & Spring Boot) · Multiplataforma (Flutter Desktop & Mobile) · IoT
 
-📍 **Buenaventura, Valle del Cauca, Colombia**  
-🎓 Estudiante de **Ingeniería de Sistemas** & **Tecnología en Análisis y Desarrollo de Software (ADSO)**
+ **Buenaventura, Valle del Cauca, Colombia**  
+ Estudiante de **Ingeniería de Sistemas** & **Tecnología en Análisis y Desarrollo de Software (ADSO)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Pablo_Rivas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-rivas)
 [![Gmail](https://img.shields.io/badge/Contacto-pedropablo200322%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedropablo200322@gmail.com)
@@ -14,18 +14,18 @@
 
 ---
 
-## 🚀 Sobre Mí
+##  Sobre Mí
 
 Soy un desarrollador de software apasionado por construir sistemas desde sus cimientos lógicos hasta experiencias de usuario fluidas. Mi enfoque combina la rigurosidad del **desarrollo Backend empresarial (Java & Spring Boot)** con la versatilidad del **desarrollo nativo multiplataforma (Flutter para Windows Desktop y Android)**.
 
-- 🏗️ Diseño software aplicando **Clean Architecture**, principios **SOLID** y **Programación Orientada a Objetos (POO)**.
-- ⚙️ Creador y autor intelectual de **OmniReader**, un ecosistema multiplataforma de lectura digital con motores propios de descompresión binaria en memoria, persistencia en **SQLite (FFI)** y sincronización **Wi-Fi**.
-- 🧠 Experiencia integrando **Inteligencia Artificial Generativa (Google Gemini SDK)** en aplicaciones móviles y orquestando hardware físico mediante arquitecturas **IoT (Arduino Mega + ESP32)**.
-- 🤝 Líder juvenil activo como **Secretario de Asuntos Juveniles en ASOCOMUNAL Buenaventura**, impulsando procesos de articulación comunitaria y formación tecnológica.
+-  Diseño software aplicando **Clean Architecture**, principios **SOLID** y **Programación Orientada a Objetos (POO)**.
+-  Creador y autor intelectual de **OmniReader**, un ecosistema multiplataforma de lectura digital con motores propios de descompresión binaria en memoria, persistencia en **SQLite (FFI)** y sincronización **Wi-Fi**.
+-  Experiencia integrando **Inteligencia Artificial Generativa (Google Gemini SDK)** en aplicaciones móviles y orquestando hardware físico mediante arquitecturas **IoT (Arduino Mega + ESP32)**.
+-  Líder juvenil activo como **Secretario de Asuntos Juveniles en ASOCOMUNAL Buenaventura**, impulsando procesos de articulación comunitaria y formación tecnológica.
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### **Lenguajes & Frameworks Principales**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,9 +53,9 @@ Soy un desarrollador de software apasionado por construir sistemas desde sus cim
 
 ---
 
-## 🏆 Proyectos Destacados de Ingeniería
+##  Proyectos Destacados de Ingeniería
 
-### 1. 📚 OmniReader — Ecosistema Multiplataforma de Lectura Digital y Gestión de Biblioteca
+### 1.  OmniReader — Ecosistema Multiplataforma de Lectura Digital y Gestión de Biblioteca
 > **Proyecto Insignia · Autoría y Propiedad Intelectual Propia** | `Windows Desktop (x64)` & `Android`
 
 Aplicación nativa de alto rendimiento diseñada desde cero para la lectura, organización, anotación, análisis estadístico y sincronización inalámbrica de libros electrónicos, novelas ligeras, documentos técnicos, cómics y mangas en formatos **EPUB (v2/v3), PDF, CBZ y CBR (RAR/ZIP)**.
@@ -84,7 +84,7 @@ Aplicación nativa de alto rendimiento diseñada desde cero para la lectura, org
 
 ---
 
-### 2. 🚗 Sistema de Gestión para Mantenimiento de Vehículos
+### 2.  Sistema de Gestión para Mantenimiento de Vehículos
 > **Backend Empresarial & Arquitectura de Software** | `Java` & `Spring Boot`
 
 Plataforma backend diseñada para administrar y controlar el flujo operativo, historial técnico, órdenes de servicio y programación de mantenimiento vehicular, priorizando la escalabilidad y el bajo acoplamiento.
@@ -97,7 +97,7 @@ Plataforma backend diseñada para administrar y controlar el flujo operativo, hi
 
 ---
 
-### 3. 🤖 Finanzas AI — Asistente Móvil Inteligente de Gestión Financiera
+### 3.  Finanzas AI — Asistente Móvil Inteligente de Gestión Financiera
 > **Mobile Full-Stack & Inteligencia Artificial Generativa** | `Flutter`, `Firebase` & `Gemini API`
 
 Aplicación móvil multiplataforma que permite a los usuarios registrar sus movimientos económicos diarios y recibir asesoría financiera personalizada en tiempo real impulsada por Inteligencia Artificial.
@@ -110,7 +110,7 @@ Aplicación móvil multiplataforma que permite a los usuarios registrar sus movi
 
 ---
 
-## ⚡ Otros Proyectos de Ingeniería, IoT y Arquitectura
+##  Otros Proyectos de Ingeniería, IoT y Arquitectura
 
 | Proyecto | Enfoque | Descripción Técnica | Tecnologías |
 | :--- | :--- | :--- | :--- |
@@ -120,7 +120,7 @@ Aplicación móvil multiplataforma que permite a los usuarios registrar sus movi
 
 ---
 
-## 📊 Enfoque de Ingeniería
+##  Enfoque de Ingeniería
 
 ```text
 +-----------------------------------------------------------------------------------+
@@ -137,13 +137,13 @@ Aplicación móvil multiplataforma que permite a los usuarios registrar sus movi
 
 ---
 
-## 📫 Contacto y Colaboración
+##  Contacto y Colaboración
 
 Estoy abierto a oportunidades laborales como **Junior Backend Developer (Java / Spring Boot)**, **Junior Mobile / Multiplatform Developer (Flutter)** o **Software Engineer Junior**, así como a proyectos de innovación tecnológica.
 
-- 📧 **Correo electrónico:** [pedropablo200322@gmail.com](mailto:pedropablo200322@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/pedro-rivas](https://linkedin.com/in/pedro-rivas)
-- 📍 **Ubicación:** Buenaventura, Valle del Cauca, Colombia (Disponible para trabajo remoto o presencial/híbrido)
+-  **Correo electrónico:** [pedropablo200322@gmail.com](mailto:pedropablo200322@gmail.com)
+-  **LinkedIn:** [linkedin.com/in/pedro-rivas](https://linkedin.com/in/pedro-rivas)](https://www.linkedin.com/in/pedro-rivas-02021a2a5/)
+-  **Ubicación:** Buenaventura, Valle del Cauca, Colombia (Disponible para trabajo remoto o presencial/híbrido)
 
 <div align="center">
   <sub><i>"Construyendo software limpio, desde algoritmos binarios en memoria hasta arquitecturas empresariales escalables."</i></sub>
